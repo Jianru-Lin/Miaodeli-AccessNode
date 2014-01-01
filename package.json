@@ -1,0 +1,15 @@
+{
+  "main": "app/index.html",
+  "name": "Miaodeli-AccessNode",
+  "version": "0.1.0",
+  "window": {
+    "icon": "app/icon.png",
+    "toolbar": true,
+    "width": 800,
+    "height": 500,
+    "position": "center"
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
